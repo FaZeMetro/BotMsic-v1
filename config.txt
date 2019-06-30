@@ -3,4 +3,4 @@ owner=132289073254498305
 prefix=1
 game=By FaZeMeTro
 stayinchannel=true
-songinstatus=true
+songinstatus=false
