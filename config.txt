@@ -1,6 +1,6 @@
-token=
-owner=  
-prefix= 
-game= Type help
+token=NTk0ODU4OTYxMjI0NTk3NTMx.XRijpQ.tlt0QBVai8bG3tC526YvSswDlsY
+owner=132289073254498305  
+prefix=1p
+game=By FaZeMeTro
 stayinchannel=true
 songinstatus=true
